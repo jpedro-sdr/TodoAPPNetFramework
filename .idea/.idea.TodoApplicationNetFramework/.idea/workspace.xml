@@ -7,7 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62cd590c-bae9-4fb1-bea6-f652fe096771" name="Changes" comment="Criação do TodoApp com .netFramework" />
+    <list default="true" id="62cd590c-bae9-4fb1-bea6-f652fe096771" name="Changes" comment="Renomeando nome da solution">
+      <change afterPath="$PROJECT_DIR$/DbContext/Contexts/TodoContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DbContext/Repositories/TimeRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/Entidades/Time.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TodoApplicationNetFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TodoApplicationNetFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApplicationNetFramework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApplicationNetFramework.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages.config" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,41 +28,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jpedro-sdr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jpedro-sdr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jpedro-sdr/TodoAppNetFramework.git",
-    "accountId": "6bfb962c-92fa-40ff-8d02-9b50668178ec"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jpedro-sdr/TodoAppNetFramework.git&quot;,
+    &quot;accountId&quot;: &quot;6bfb962c-92fa-40ff-8d02-9b50668178ec&quot;
   }
-}]]></component>
+}</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oGejdHFERsa2MzwQ6nNMFioHIg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.TodoApplicationNetFramework - IIS Express.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.TodoApplicationNetFramework - IIS Express.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;,
+      &quot;sqlserver.localdb&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TodoApplicationNetFramework - IIS Express" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -83,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730500476208</updated>
-      <workItem from="1730500478292" duration="315000" />
+      <workItem from="1730500478292" duration="5100000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do TodoApp com .netFramework">
       <option name="closed" value="true" />
@@ -101,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730500655455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Renomeando nome da solution">
+      <option name="closed" value="true" />
+      <created>1730501125436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730501125436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +135,39 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Criação do TodoApp com .netFramework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do TodoApp com .netFramework" />
+    <MESSAGE value="Renomeando nome da solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renomeando nome da solution" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Controllers/HomeController.cs</url>
+          <line>18</line>
+          <properties documentPath="C:\dev\Estudo\TodoApplicationNetFramework\Controllers\HomeController.cs" containingFunctionPresentation="Method 'Index'">
+            <startOffsets>
+              <option value="523" />
+            </startOffsets>
+            <endOffsets>
+              <option value="537" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DbContext/Repositories/TimeRepository.cs</url>
+          <line>18</line>
+          <properties documentPath="C:\dev\Estudo\TodoApplicationNetFramework\DbContext\Repositories\TimeRepository.cs" containingFunctionPresentation="Method 'GetAll'">
+            <startOffsets>
+              <option value="468" />
+            </startOffsets>
+            <endOffsets>
+              <option value="499" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
